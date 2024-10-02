@@ -18,9 +18,7 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 
 ## Output:
 
-![alt text](D9AF4FED-310E-48DA-8701-3219E7B87044-1.jpeg)
 
-![alt text](image-1.png)
 
 ## Reflection
 
